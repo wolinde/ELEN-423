@@ -133,8 +133,11 @@ int main()
 	   }
    }
 
+<<<<<<< HEAD
 print ("Anna was here :D ");
 
+=======
+>>>>>>> ef42f63023c2f79444b63afbb53cc4d6b22bb1ff
    Xil_DCacheDisable();
    Xil_ICacheDisable();
 
@@ -185,3 +188,7 @@ int wait(u32 wait_count) {
 	}
 	return i;
 }
+<<<<<<< HEAD
+=======
+//I changed this from online;
+>>>>>>> ef42f63023c2f79444b63afbb53cc4d6b22bb1ff
