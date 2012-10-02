@@ -133,6 +133,8 @@ int main()
 	   }
    }
 
+print ("Anna was here :D ");
+
    Xil_DCacheDisable();
    Xil_ICacheDisable();
 
