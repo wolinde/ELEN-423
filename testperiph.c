@@ -183,4 +183,3 @@ int wait(u32 wait_count) {
 	}
 	return i;
 }
-How about this?
