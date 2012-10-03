@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 #include <stdio.h>
 #include "xparameters.h"
 #include "xil_cache.h"
@@ -375,8 +374,3 @@ int wait(u32 wait_count) {
 	}
 	return i;
 }
-<<<<<<< HEAD
-=======
-//I changed this from online;
->>>>>>> ef42f63023c2f79444b63afbb53cc4d6b22bb1ff
->>>>>>> 495f8ba74b1cd0678712c8e0d69c8331e612bfb8
