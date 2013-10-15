@@ -71,7 +71,7 @@ int main()
 			}
 			port2_IPIER=0x1;
 
-		}			#comment added Dr. Hummel
+		}
 
 	}
 
