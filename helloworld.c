@@ -75,6 +75,8 @@ int main()
 
 	}
 
+//this is what I am adding here
+
     cleanup_platform();
 
     return 0;
